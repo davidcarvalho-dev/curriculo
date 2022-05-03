@@ -15,4 +15,6 @@ Esse projeto desenvolvido no cursos Formação Full Stack JavaScript do professo
 </p>
 
 ## Como acessar projeto
-Basta clicar neste <a href="https://davidcarvalho-dev.github.io/curriculo/">link.</a>
+Basta clicar neste <a href="https://davidcarvalho-dev.github.io/curriculo/">link</a>.
+
+**OBS: O currículo não está responsivo, pois como foi dito acima o projeto serviu apenas para treinar conceitos básicos, portanto para uma melhor experiência sugiro que acesse o link através de um Desktop ou Notebook.**
